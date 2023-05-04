@@ -3,7 +3,7 @@
   <transcriptionFont />
   <freeTranslationFont />
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
-  <Title>test</Title>
+  <Title>STT-001</Title>
   <FundingProjectTitle />
   <ProjectDescription />
   <VernacularISO3CodeAndName />
